@@ -5,7 +5,9 @@ Proyecto de creación de tareas en vivo. Con funciones de agregar nuevas tareas,
 <br>
 Archivos iniciales del proyecto TodoAPP, creado con HTML, CSS y JavaScript. Oracle One, Alura Latam.
 
-#Instrucciones:Abrir repositorio en Visual Studio Code, a continuación descargar la extención de Live Server. Posteriormente en VS, hacer click derecho sobre el archivo index y elegir la opción de "Open in a Online Server", por último utilizar la página.
+#Instrucciones:
+<br>
+Abrir repositorio en Visual Studio Code, a continuación descargar la extención de Live Server. Posteriormente en VS, hacer click derecho sobre el archivo index y elegir la opción de "Open in a Online Server", por último utilizar la página.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
